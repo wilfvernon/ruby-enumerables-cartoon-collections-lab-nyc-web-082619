@@ -5,4 +5,4 @@ def long_planeteer_calls(array)
 end
 end
 
-long_planeteer_calls(["cold"])
+long_planeteer_calls(["col"])
