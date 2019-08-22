@@ -9,4 +9,4 @@ end
 
 end
 
-long_planeteer_calls(["cold", "hot"])
+long_planeteer_calls(["col", "hot"])
