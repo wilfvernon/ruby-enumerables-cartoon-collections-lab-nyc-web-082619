@@ -9,6 +9,7 @@ end
 def long_planeteer_calls(array)
   if array.detect{|w| w.length > 3}
     return true
+  else return false
 end
 end
 
