@@ -3,6 +3,7 @@ def long_planeteer_calls(array)
     puts true
     return true
 end
+else return false
 end
 
 long_planeteer_calls(["col"])
